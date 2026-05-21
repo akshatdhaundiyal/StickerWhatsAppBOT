@@ -1,6 +1,6 @@
-# Milestone 01 - Reliability & Stability Upgrades
+# Milestone 02 - Reliability & Stability Upgrades
 
-This design document specifies the architecture, strategy, and concrete implementation patterns planned for **Milestone 01: Reliability & Stability Upgrades**.
+This design document specifies the architecture, strategy, and concrete implementation patterns planned for **Milestone 02: Reliability & Stability Upgrades**.
 
 ---
 
@@ -61,4 +61,4 @@ Enhance the Media Pipeline to audit sizes and types:
 
 | Date | Author | Version | Notes |
 | :--- | :--- | :--- | :--- |
-| 2026-05-21 | Antigravity AI | v1.0.0 | Initial specifications drafted under Milestone 01. |
+| 2026-05-21 | Antigravity AI | v1.0.0 | Initial specifications drafted under Milestone 02. |

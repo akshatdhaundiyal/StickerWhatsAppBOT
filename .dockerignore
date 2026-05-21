@@ -1,0 +1,30 @@
+# Dependency folders
+node_modules/
+
+# Local session storage keys and session contexts
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Local secret credential files
+.env
+.env.*
+.gitignore
+
+# Temp transcode outputs
+scratch/
+
+# Build logs and diagnostics logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Git resources
+.git/
+.github/
+.vscode/
+
+# Docker references
+Dockerfile
+.dockerignore
