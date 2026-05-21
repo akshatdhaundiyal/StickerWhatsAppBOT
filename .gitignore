@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Local FFmpeg binary
+ffmpeg.exe
+
+# Environment configuration secrets
+.env
+
+

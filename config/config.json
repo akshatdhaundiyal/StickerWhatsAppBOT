@@ -1,8 +1,8 @@
 {
     "name": "StickerBOT",
-    "author": "@DrelezTM",
+    "author": "akshatdhaundiyal",
     "prefix": "!",
-    "timezone": "Asia/Jakarta",
+    "timezone": "Asia/Kolkata",
     "groups": true,
     "log": true
 }
